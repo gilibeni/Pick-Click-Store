@@ -1,0 +1,175 @@
+.main{
+    background-color: #94f4f952;
+    margin-top: 55px;
+}
+
+.about{
+    background-color: #dbfdff4a;
+    margin-top: 15px;
+}
+
+.navbar{
+    background-color: cadetblue;
+    height: 55px;
+}
+
+.btn.btn-cart{
+    background-color: #bb8080;
+}
+
+
+.btn:hover{
+    background-color: darksalmon;
+}
+
+.card{
+    margin-top: 10px;
+}
+
+.card-item:hover{
+    background-color: whitesmoke;
+}
+
+.card-columns{
+    width: 85%;
+    margin-left: 90px;
+}
+
+.card-item{
+    background-color: #99337566;
+    border: 2px solid #da62b1;
+}
+
+.shopping-cart{
+    width: 50px;
+    height: 50px;
+}
+
+
+.card-img{
+    margin-top: 10px;
+    height: 200px;
+    width: 200px;
+}
+
+h2{
+    margin-left: 10px;
+    /*text-align: center;*/
+}
+
+h2:hover{
+    color: #99337566;
+}
+
+.come-visit{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+/*h4{
+    position: absolute;
+    margin-left: 10px;
+}*/
+
+.about-content{
+    position: absolute;
+    margin-left: 20px;
+}
+
+.head{
+    position: static;
+}
+
+iframe{
+    width: 900px;
+    height: 400px;
+    frameborder:"0";
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.icon-network{
+    height: 35px;
+    width: 35px;
+    margin-left: 10px;
+}
+
+.facebook{
+    height: 40px;
+    width: 40px;
+}
+
+.networks{
+    text-align: center;
+}
+
+.link{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.table{
+    margin-top: 40px;
+}
+
+thead{
+    background-color: #bb8080;
+}
+
+.keep-in-touch{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+form{
+    margin: auto;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    width: 500px;
+    overflow: hidden;
+}
+
+.contact{
+    margin-bottom: 30px;
+    background-color: #dbfdff4a;
+}
+
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+
+input[type=text] {
+    width: 70%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+.input-data{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+textarea{
+    width: 80%;
+    height: 130px;
+    min-width: 130px;
+}
+
+.footer-copyright{
+    background-color: #99337566;
+}
+
+.bottom-text{
+    margin-top: 50px;
+    text-align: center;
+}
